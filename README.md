@@ -1,3 +1,3 @@
-# BroadCaster
+# Broadcaster
 
-A simple Java Socket application for broadcasting messages between multithreaded clients. 
+A simple Java-based socket program for broadcasting messages to the listening clients using multi-threading. 
